@@ -1,7 +1,11 @@
 // 12march to be ignored
 
-12Mar``
+12Mar
 
 //env file
 
-env
+*.env
+
+//New ignore file
+
+ignoreThis
